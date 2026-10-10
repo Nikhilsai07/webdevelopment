@@ -1,2 +1,2 @@
 # webdevelopment
-Practice on html,css and javascript
+Practice ol,css and javascript  

@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+    .navbar {
+        border-color:black;
+        border-width: 2px;
+        border-style: solid;
+        background-color: lightgray;
+        padding: 15px;
+        text-align: center;
+    }
+    .h1-tag {
+        color: green;
+        text-align: center;
+    }
+    .navbar a {
+        text-decoration: none;
+        color: black;
+        padding:15px; 
+    }
+    .navbar a:hover {
+        background-color: darkgray;
+        text-decoration: underline;
+    }
